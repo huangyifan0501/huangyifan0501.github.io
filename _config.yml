@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Evan's Site"
+title                    : "Yifan Huang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yifan Huang"
 description              : &description "personal description"
 url                      : https://huangyifan0501.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    :  # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/profiles/76561198862872945/"
+  steam            : "76561198862872945"
   tumblr           :
   twitter          :  # "replacethistwitterhandle"
   vine             :

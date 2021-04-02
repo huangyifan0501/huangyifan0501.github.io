@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## About me
+
 ## News
 
